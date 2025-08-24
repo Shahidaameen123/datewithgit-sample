@@ -1,0 +1,62 @@
+[33mcommit 00ee19a4ff77e1a248750212436c9151c8343d21[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d882a43 14e76c0
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 23:17:39 2025 +0530
+
+    conflict fixed
+
+[33mcommit d882a433f4624d61bc25e4c1c3e89d3c5b57b960[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 23:14:21 2025 +0530
+
+    negative answer added
+
+[33mcommit 14e76c0ae04efdad1c835cbd33d813bec06f2e3c[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 23:11:46 2025 +0530
+
+    positive answer added
+
+[33mcommit eaf2f1cdb9490a5d5fac3155b955ae5722cadbb6[m
+Merge: ff6bce1 63dd969
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 22:52:08 2025 +0530
+
+    Merge branch 'feature'
+    separate branches merged
+
+[33mcommit 63dd969647d3d3a4681441159778c571e684a0e7[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 22:42:57 2025 +0530
+
+    index file modifide
+
+[33mcommit ff6bce1673dcb2e73c31fbf8309fdb7e2a91f9f1[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 22:35:59 2025 +0530
+
+    hey file modifide
+
+[33mcommit c604d7f3c0b0b16bdef5ee5072dbe99f2978e7c9[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 21:44:53 2025 +0530
+
+    hey file edited
+
+[33mcommit f6667e562cb4ee80aa97e005d80f763d62998557[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 17:23:10 2025 +0530
+
+    Second file added
+
+[33mcommit ee19cae8a39365073ca41d8e2f2776a5e475b196[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 15:19:32 2025 +0530
+
+    added some messages
+
+[33mcommit af7d99fcdc8950f3d6606f754c161db6a80f32a2[m
+Author: Shahida.a <shahidaameen789@gmail.com>
+Date:   Thu Aug 21 15:08:20 2025 +0530
+
+    Initial Commit
